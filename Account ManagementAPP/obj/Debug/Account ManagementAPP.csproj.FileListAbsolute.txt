@@ -1,0 +1,11 @@
+C:\Users\mjpin\OneDrive\Desktop\.Net Repos\Account ManagementAPP\Account ManagementAPP\bin\Debug\Account ManagementAPP.exe.config
+C:\Users\mjpin\OneDrive\Desktop\.Net Repos\Account ManagementAPP\Account ManagementAPP\bin\Debug\Account ManagementAPP.exe
+C:\Users\mjpin\OneDrive\Desktop\.Net Repos\Account ManagementAPP\Account ManagementAPP\bin\Debug\Account ManagementAPP.pdb
+C:\Users\mjpin\OneDrive\Desktop\.Net Repos\Account ManagementAPP\Account ManagementAPP\obj\Debug\Account ManagementAPP.csproj.AssemblyReference.cache
+C:\Users\mjpin\OneDrive\Desktop\.Net Repos\Account ManagementAPP\Account ManagementAPP\obj\Debug\Account ManagementAPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\mjpin\OneDrive\Desktop\.Net Repos\Account ManagementAPP\Account ManagementAPP\obj\Debug\Account_ManagementAPP.Form1.resources
+C:\Users\mjpin\OneDrive\Desktop\.Net Repos\Account ManagementAPP\Account ManagementAPP\obj\Debug\Account_ManagementAPP.Properties.Resources.resources
+C:\Users\mjpin\OneDrive\Desktop\.Net Repos\Account ManagementAPP\Account ManagementAPP\obj\Debug\Account ManagementAPP.csproj.GenerateResource.cache
+C:\Users\mjpin\OneDrive\Desktop\.Net Repos\Account ManagementAPP\Account ManagementAPP\obj\Debug\Account ManagementAPP.csproj.CoreCompileInputs.cache
+C:\Users\mjpin\OneDrive\Desktop\.Net Repos\Account ManagementAPP\Account ManagementAPP\obj\Debug\Account ManagementAPP.exe
+C:\Users\mjpin\OneDrive\Desktop\.Net Repos\Account ManagementAPP\Account ManagementAPP\obj\Debug\Account ManagementAPP.pdb
